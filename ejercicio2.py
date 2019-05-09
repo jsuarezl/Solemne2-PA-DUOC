@@ -146,7 +146,7 @@ while True:
         clear()
         print_bought_stats()
     elif option == 4:
-        input("Saliendo del programa...")
+        print("Saliendo del programa...")
         time.sleep(3)
         exit(0)
     input("Presione enter para continuar.")
